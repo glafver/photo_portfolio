@@ -1,1 +1,1 @@
-https://glafver.github.io/photo_portfolio/
+https://glafiraphoto.netlify.app/
